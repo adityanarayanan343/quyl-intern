@@ -24,8 +24,8 @@ Quyl Dashboard is a web application that manages and displays student informatio
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/quyl-dashboard.git
-   cd quyl-dashboard
+   git clone https://github.com/adityanarayanan343/quyl-intern.git
+   cd quyl-intern
    ```
 
 2. **Install dependencies**:
