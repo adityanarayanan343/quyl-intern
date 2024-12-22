@@ -49,3 +49,46 @@ Quyl Dashboard is a web application that manages and displays student informatio
 - **Settings**: Update account settings and preferences.
 - **Help**: Get assistance and access FAQs.
 
+## Project Structure
+
+src/
+├── components/
+│ ├── Footer.jsx
+│ ├── Header.jsx
+│ ├── Layout.jsx
+│ ├── Sidebar.jsx
+│ └── StudentTable.jsx
+├── pages/
+│ ├── Dashboard.jsx
+│ ├── StudentsPage.jsx
+│ ├── ChaptersPage.jsx
+│ ├── ReportsPage.jsx
+│ ├── HelpPage.jsx
+│ └── SettingsPage.jsx
+├── App.jsx
+└── index.css
+
+
+### Key Components
+
+- **Layout**: Provides a consistent layout with a sidebar, header, and footer.
+- **StudentTable**: Displays and manages student information.
+- **Sidebar**: Navigation menu for accessing different pages.
+- **Header**: Displays the top navigation bar with options and notifications.
+- **Footer**: Displays copyright and contact information.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
